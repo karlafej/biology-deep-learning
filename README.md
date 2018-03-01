@@ -4,6 +4,11 @@ Starting mainly with biomedical image segmentation because that's the field I'm 
 More categories may follow.
 
 Feel free to add!
+## Reviews
+| Link | Paper            | Year   | 
+| ---- | ---------------- | ------ |
+|[bioRxiv](https://doi.org/10.1101/142760)| Opportunities And Obstacles For Deep Learning In Biology And Medicine | 2018 |
+|[paper](https://doi.org/10.15252/msb.20156651)|Deep learning for computational biology | 2016 |
 
 ## Biomedical imaging
 ### Segmentation
